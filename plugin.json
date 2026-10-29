@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tbc-fx",
+  "version": "0.1.0",
+  "description": "TBC Bank (Georgia) exchange rates: TBC commercial buy/sell rates and official NBG rates against GEL, plus currency conversion.",
+  "homepage": "https://developers.tbcbank.ge/docs/exchangerates-overview",
+  "license": "MIT",
+  "keywords": ["tbc", "georgia", "gel", "exchange-rates", "fx", "nbg"]
+}
